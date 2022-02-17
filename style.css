@@ -1,0 +1,15 @@
+h1
+{
+	color: gold; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+}
+
+#mycanvas{
+    border-style: double;
+	border-color: rgb(255, 0, 0);
+	background-color: white;
+}
